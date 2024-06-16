@@ -4,3 +4,6 @@
     - Pull Request: Any pull request created in the repository.
     - Merge Request: Any successful merge request
 2. The events which are triggered can be seen in the url https://lobster-cosmic-conversely.ngrok-free.app/
+
+# Screenshot of the Application
+![Latest GitHub Events](./Latest_GitHub_Events.png)
